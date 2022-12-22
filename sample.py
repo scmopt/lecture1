@@ -1,5 +1,5 @@
 # First, install Streamlit if you haven't already:
-!pip install streamlit
+#!pip install streamlit
 
 # Next, import Streamlit and other necessary libraries:
 import streamlit as st
