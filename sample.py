@@ -24,7 +24,7 @@ like_cats = st.checkbox('Do you like cats?')
 
 # If the user likes cats, show them a cute cat image:
 if like_cats:
-  st.image('https://i.imgur.com/Z5b5P5N.jpg')
+  st.image('https://static.vecteezy.com/system/resources/previews/001/131/305/non_2x/scottish-purebred-cat-photo.jpg')
 
 # Add a slider for the user to adjust:
 age = st.slider('How old are you?', min_value=0, max_value=100)
